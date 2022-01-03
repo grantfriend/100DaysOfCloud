@@ -15,9 +15,8 @@
 Systems Engineer leader with many years of experience in operations (datacentre and Active Directory), consulting (VDI and virtualisation) and most recently sales engineering (Nutanix). Love to learn and find I learn enough to get by. 
 
 Started this challenge to get some knowledge that I can refer back to. Goal would be to complete one of the Foundation certifications at the end of this 100 days (I'll be doing this mainly on workdays - 1 hour a day)
-- ![LI](icons/linkedin.svg)
-- [GrantsFriend](https://twitter.com/grantsfriend)
-- [GrantFriend](https://www.linkedin.com/in/grantfriend)
+- [Twatter - GrantsFriend](https://twitter.com/grantsfriend)
+- [LinkedIn - GrantFriend](https://www.linkedin.com/in/grantfriend)
 
 ## Stepping out the door
 
