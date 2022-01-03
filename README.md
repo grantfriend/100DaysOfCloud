@@ -14,16 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Grant Friend's Cloud Journey
 
-[✍️ Introduce yourself]
+Systems Engineer leader with many years of experience in operations (datacentre and Active Directory), consulting (VDI and virtualisation) and most recently sales engineering (Nutanix). Love to learn and find I learn enough to get by. 
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+Started this challenge to get some knowledge that I can refer back to. Goal would be to complete one of the Foundation certifications at the end of this 100 days (I'll be doing this mainly on workdays - 1 hour a day)
+- [GrantsFriend](https://twitter.com/grantsfriend)
+- [GrantFriend](https://www.linkedin.com/in/grantfriend)
 
 ## Stepping out the door
 
