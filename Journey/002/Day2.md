@@ -1,24 +1,17 @@
-<!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
-
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# Azure Fundamentals AZ-900
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I need to start at the basics, even though I may know them. Starting with the Fundamentals and looked at Coursera and LinkedIn Learning for courses, completing neglecting the Discourse section on the course. 
 
-## Use Case
+## Resources
 
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Microsofts [Discuss Azure fundamental Concepts](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/)
+- YouTube [Study Guide](https://www.youtube.com/watch?v=HfZ1kgHlrfg&list=PLYGZ9Q0oTOHfsI-3IAhvyc09ssPDfoePv)
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 
-## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
