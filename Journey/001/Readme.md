@@ -5,7 +5,7 @@
 
 ## Introduction
 
-I'm doing this to improve my knowledge of the big three provides, Azue, AWS and GCP. 
+I'm doing this to improve my knowledge of the big three provides, Azure, AWS and GCP. 
 
 ## Prerequisite
 
