@@ -18,8 +18,7 @@ I'm doing this to improve my knowledge of the big three provides, Azue, AWS and 
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Day 1 has all been about where should I start. The 100DaysOfCloud Discord channel has a lot of information, which distract me. Decided to start with Azure due to my Windows backgroud. Have access to some learning courses and I'll add them in here as I progress, plus take the ones available from the [100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
 ## Try yourself
 
